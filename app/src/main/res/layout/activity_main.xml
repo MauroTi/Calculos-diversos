@@ -128,13 +128,13 @@
                 android:text="Área Círculo" />
         </LinearLayout>
 
-        <Button
+        <!--<Button
             android:id="@+id/btnmudatela"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Próxima Tela"
             android:onClick="mudaTela"
             app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintStart_toStartOf="parent" />
+            app:layout_constraintStart_toStartOf="parent" />-->
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -101,11 +101,11 @@ public class MainActivity extends AppCompatActivity {
     }
 
 
-    public void mudaTela(View view) {
+   /* public void mudaTela(View view) {
         Intent intent = new Intent(MainActivity.this,Main2Activity.class);
         startActivity(intent);
 
-    }
+    }*/
 
        /* primeira tela
 
